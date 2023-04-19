@@ -4,13 +4,13 @@
 
 ---
 
-프로젝트 명 : 반려견 홈케어 시스템 (Pet Health & Feed control System)
+📌 프로젝트 명 : 반려견 홈케어 시스템 (Pet Health & Feed control System)
 
-프로젝트 개요 : 1인 가구의 증가와 함께 반려동물 시장 또한 증가하고 있다. 특히 반려 케어 시스템에 많은 관심과 중이 되고 있다. 1인 가구의 특성상 집을 비우는 시간이 많기 때문에 혼자 있는 반려동물을 걱정하는 사람이 많다. 이를 위해 반려인이 원격으로 영상을 관제하면서 먹이를 보급해주고, 맥박 측정 시스템을 이용함으로써 반려동물의 건강관리가 가능한 시스템을 개발하였다.
+📝 프로젝트 개요 : 1인 가구의 증가와 함께 반려동물 시장 또한 증가하고 있다. 특히 반려 케어 시스템에 많은 관심과 중이 되고 있다. 1인 가구의 특성상 집을 비우는 시간이 많기 때문에 혼자 있는 반려동물을 걱정하는 사람이 많다. 이를 위해 반려인이 원격으로 영상을 관제하면서 먹이를 보급해주고, 맥박 측정 시스템을 이용함으로써 반려동물의 건강관리가 가능한 시스템을 개발하였다.
 
-프로젝트 기간 : 2023년 4월 1일 ~ 4월 10일
+📆 프로젝트 기간 : 2023년 4월 1일 ~ 4월 10일
 
-![Untitled](Iot%20mini%20Project%20f20791c2f6c0454aaf0c4a75b4d40588/Untitled.png)
+![1](https://user-images.githubusercontent.com/77330806/233028056-86eb1e7a-0556-4717-8175-39e449c91926.png)
 ### 🌐Youtube(최종 동영상)
 
 ---
@@ -39,7 +39,8 @@
 
 ---
 
-![KakaoTalk_20230403_105115215.jpg](Iot%20mini%20Project%20f20791c2f6c0454aaf0c4a75b4d40588/KakaoTalk_20230403_105115215.jpg)
+![2](https://user-images.githubusercontent.com/77330806/233028252-0ec85b4f-614d-4afc-b8bf-3a1510b16aec.jpg)
+
 
 ### 👁️아이디어 구현계획
 
@@ -50,7 +51,7 @@
 
 1. 기능 3단계 : 타이머 기능으로 주기적으로 배급하거나 적외선 센서를 통하여 반려묘가 자동 배급기주변에 왔을때, 앱을통해 ‘움직임이 감지됨’  혹은 ‘먹이 배급을 시작합니다’ 등의 알림기능을 활성화, 동시에 servo 모터를 통하여 배급기가 작동됨
 
-![Untitled](Iot%20mini%20Project%20f20791c2f6c0454aaf0c4a75b4d40588/Untitled%201.png)
+![3](https://user-images.githubusercontent.com/77330806/233029956-364e9dd3-0401-493a-892d-df8fec1fd55a.png)
 
 ### 📋개발 환경
 
@@ -63,13 +64,14 @@
 - Android
 - Ubuntu 22.04
 
-![Untitled](Iot%20mini%20Project%20f20791c2f6c0454aaf0c4a75b4d40588/Untitled%202.png)
+![4](https://user-images.githubusercontent.com/77330806/233030038-f4adc8f4-e578-4b4c-9198-d1d5e030d712.png)
+
 
 ### 📍구성도
 
 ---
 
-![Untitled](Iot%20mini%20Project%20f20791c2f6c0454aaf0c4a75b4d40588/Untitled%203.png)
+![5](https://user-images.githubusercontent.com/77330806/233030090-9110a2c1-0d26-4f9a-a0d8-4743b7d73e04.png)
 
 ### ✨단계별 진행사항
 
